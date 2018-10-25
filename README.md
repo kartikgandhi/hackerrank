@@ -1,4 +1,4 @@
-# C Basic Programs
+# Hackerrank Programs
 This repository contains data structure, python and algorithm programs of Hackerrank
 
 ## Contributing
